@@ -1,0 +1,27 @@
+Git commands:
+git --version	
+
+git config --list
+
+git config --global --list -- for specific list
+
+
+For first time :
+$ git config --global user.name "First Last"
+$ git config --global user.email "you@email.com"
+
+Admin@DESKTOP-9CL7VKI MINGW64 ~/new (master)
+$ git config --global core.autocrlf false
+
+$ git config --global core.autocrlf true
+Memory Tip: autocrlf stands for auto carriage return line
+feed. 	
+
+ git status -->to check the status
+ 
+ git branch  --> which branch is active
+ 
+ git branch --all --> all branch inc remote
+
+Switch branches: 
+git checkout 
